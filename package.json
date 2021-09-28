@@ -1,10 +1,10 @@
 {
+  "homepage": "http://ahmtyln.github.io/MovieFinder",
   "name": "modern-app-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "homepage": "http://ahmtyln.github.io/MovieFinder",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "webpack --mode development",
